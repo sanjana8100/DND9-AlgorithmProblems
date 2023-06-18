@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\bin\Debug\net6.0\DND9-AlgorithmProblems.exe
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\bin\Debug\net6.0\DND9-AlgorithmProblems.deps.json
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\bin\Debug\net6.0\DND9-AlgorithmProblems.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\bin\Debug\net6.0\DND9-AlgorithmProblems.dll
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\bin\Debug\net6.0\DND9-AlgorithmProblems.pdb
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.dll
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\refint\DND9-AlgorithmProblems.dll
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.pdb
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\DND9-AlgorithmProblems.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND9-AlgorithmProblems\DND9-AlgorithmProblems\obj\Debug\net6.0\ref\DND9-AlgorithmProblems.dll

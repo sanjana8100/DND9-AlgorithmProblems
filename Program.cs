@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("P1- Binary Search");
+            Console.WriteLine("--------------------------------------------");
+            P1_BinarySearch.BinarySearch(new string[] { "abc", "xyz", "efg", "pqr" }, "efg");
         }
     }
 }
